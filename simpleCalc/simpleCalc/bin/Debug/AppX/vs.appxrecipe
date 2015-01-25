@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HOME_PC</Machine>
+    <WindowsUser>hotz</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>08550197-1390-41d7-910f-96df3ee4f2ca</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2D50541B214217355FCA1C1B0D9135739D5ECAE31D7D497635F2383A2F544A82</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>08550197-1390-41d7-910f-96df3ee4f2ca_1.0.0.0_neutral__jjbmf84vhf0j8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>08550197-1390-41d7-910f-96df3ee4f2ca_jjbmf84vhf0j8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>08550197-1390-41d7-910f-96df3ee4f2ca</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hotz</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-17T06:09:44.339</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\bin\Debug\simpleCalc.exe">
+      <PackagePath>simpleCalc.exe</PackagePath>
+      <Modified>2015-01-17T06:09:44.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-17T06:09:43.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-17T06:09:43.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\bin\Debug\simpleCalc.xr.xml">
+      <PackagePath>simpleCalc.xr.xml</PackagePath>
+      <Modified>2015-01-17T06:09:43.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\悠斗\documents\visual studio 2013\Projects\simpleCalc\simpleCalc\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-17T06:09:44.195</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
